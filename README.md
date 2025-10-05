@@ -136,3 +136,13 @@ Este PoC serve como uma base sólida. Um ator de ameaça real expandiria as suas
 O desenvolvimento do "Rage" foi um exercício de emulação de adversário, um mergulho profundo na mentalidade de um atacante. Através da implementação de TTPs conhecidas em C++ moderno e da API Win32, pude não só explorar as complexidades do desenvolvimento de ferramentas ofensivas, mas também focar-me em aspetos críticos como a performance e a evasão de defesas. Este projeto demonstra a minha capacidade de arquitetar software complexo, gerir a concorrência de threads, interagir com APIs de baixo nível do sistema operativo e, acima de tudo, pensar como um Red Teamer na construção de ferramentas para simulação de ataques.
 
 ![Resultado Final](assets/4.png)
+
+## 6. Recursos de Pesquisa
+
+* **The Ransomware Operator Bible:** https://klydz.net/all/How-ransomware-operators-operate/
+
+* **MITRE ATT&CK® Framework:**  https://attack.mitre.org/
+
+* **Microsoft Learn:** https://learn.microsoft.com/en-us/windows/win32/api/
+
+* **C++ Standard Parallelism - Southern Methodist University:** https://southernmethodistuniversity.github.io/parallel_cpp/cpp_standard_parallelism.html
